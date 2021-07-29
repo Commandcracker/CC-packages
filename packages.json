@@ -1,0 +1,16 @@
+{
+    "vim": {
+        "files": {
+            "vim": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vim.lua",
+            "apiloader": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vim.lua",
+            "command": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/command.lua",
+            "config": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/config.lua",
+            "file": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/file.lua",
+            "global": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/global.lua",
+            "logger": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/logger.lua",
+            "screen": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/screen.lua",
+            "vimode": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vimode.lua",
+            "vimrcDefault": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vimrcDefault.lua"
+        }
+    }
+}

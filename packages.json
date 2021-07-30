@@ -1,7 +1,7 @@
 {
     "vim": {
         "files": {
-            "vim": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vim.lua",
+            "bin/vim": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vim.lua",
             "apiloader": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vim.lua",
             "command": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/command.lua",
             "config": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/config.lua",

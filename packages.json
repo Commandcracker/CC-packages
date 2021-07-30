@@ -10,7 +10,8 @@
             "logger": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/logger.lua",
             "screen": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/screen.lua",
             "vimode": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vimode.lua",
-            "vimrcDefault": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vimrcDefault.lua"
+            "vimrcDefault": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vimrcDefault.lua",
+            "startup": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/startup.lua"
         }
     }
 }

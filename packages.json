@@ -13,5 +13,10 @@
             "vimrcDefault": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vimrcDefault.lua",
             "startup": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/startup.lua"
         }
+    },
+    "donut": {
+        "files": {
+            "bin/donut": "https://raw.githubusercontent.com/Commandcracker/CC-spinning-donut/master/donut.lua"
+        }
     }
 }

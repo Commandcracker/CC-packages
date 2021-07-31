@@ -11,9 +11,10 @@ pack add-source commandcracker https://raw.githubusercontent.com/Commandcracker/
 
 ## Packages
 
-| Package                                                      | Maintainer                                          | Forked from                                                                                |
-|--------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| [vim](https://github.com/Commandcracker/VimCC)               | [Commandcracker](https://github.com/Commandcracker) | [HugoNikano](https://github.com/HugoNikanor)/[VimCC](https://github.com/HugoNikanor/VimCC) |
-| [donut](https://github.com/Commandcracker/CC-spinning-donut) | [Commandcracker](https://github.com/Commandcracker) |                                                                                            |
-| [doom](https://github.com/Xelostar/CCDoom)                   | [Xelostar](https://github.com/Xelostar)             |                                                                                            |
-| [mirror](https://pastebin.com/DW3LCC3L)                      | [Wojbie](https://pastebin.com/u/Wojbie)             |                                                                                            |
+| Package                                                                        | Maintainer                                          | Forked from                                                                                 |
+|--------------------------------------------------------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------|
+| [vim](https://github.com/Commandcracker/VimCC)                                 | [Commandcracker](https://github.com/Commandcracker) | [HugoNikano](https://github.com/HugoNikanor)/[VimCC](https://github.com/HugoNikanor/VimCC)  |
+| [donut](https://github.com/Commandcracker/CC-spinning-donut)                   | [Commandcracker](https://github.com/Commandcracker) |                                                                                             |
+| [doom](https://github.com/Xelostar/CCDoom)                                     | [Xelostar](https://github.com/Xelostar)             |                                                                                             |
+| [mirror](https://pastebin.com/DW3LCC3L)                                        | [Wojbie](https://pastebin.com/u/Wojbie)             |                                                                                             |
+| [matrix](https://github.com/Commandcracker/CC-packages/blob/master/matrix.lua) | [Commandcracker](https://github.com/Commandcracker) | [felixmaxwell](https://pastebin.com/u/felixmaxwell)/[Matrix](https://pastebin.com/KQjmtASU) |

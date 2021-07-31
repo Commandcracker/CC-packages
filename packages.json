@@ -62,5 +62,11 @@
         "files": {
             "bin/mirror": "https://pastebin.com/raw/DW3LCC3L"
         }
+    },
+    "matrix": {
+        "url": "https://github.com/Commandcracker/CC-packages/blob/master/matrix.lua",
+        "files": {
+            "bin/matrix": "https://raw.githubusercontent.com/Commandcracker/CC-packages/master/matrix.lua"
+        }
     }
 }

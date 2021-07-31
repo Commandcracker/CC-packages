@@ -56,5 +56,11 @@
             "models/enemy1": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/models/enemy1",
             "models/enemy2": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/models/enemy2"
         }
+    },
+    "mirror": {
+        "url": "https://pastebin.com/DW3LCC3L",
+        "files": {
+            "bin/mirror": "https://pastebin.com/raw/DW3LCC3L"
+        }
     }
 }

@@ -6,6 +6,8 @@ pack add-source commandcracker https://raw.githubusercontent.com/Commandcracker/
 ```
 
 ## Packages
+
 - [vim](https://github.com/Commandcracker/VimCC)
 - [donut](https://github.com/Commandcracker/CC-spinning-donut)
 - [doom](https://github.com/Xelostar/CCDoom)
+- [mirror](https://pastebin.com/DW3LCC3L)

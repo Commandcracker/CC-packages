@@ -6,7 +6,7 @@ CC-packages is my package list for [CC-pack](https://github.com/Commandcracker/C
 
 ```bash
 pastebin run gTMnqnRk
-pack add-source commandcracker https://raw.githubusercontent.com/Commandcracker/CC-packages/master/packages.json
+pack add-source commandcracker https://raw.githubusercontent.com/Commandcracker/CC-packages/master/pack.json
 ```
 
 ## Packages

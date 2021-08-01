@@ -1,0 +1,74 @@
+{
+    "packages": {
+        "vim": {
+            "files": {
+                "bin/vim": {"url": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vim.lua"},
+                "apiloader": {"url": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/apiloader.lua"},
+                "command": {"url": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/command.lua"},
+                "config": {"url": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/config.lua"},
+                "file": {"url": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/file.lua"},
+                "global": {"url": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/global.lua"},
+                "logger": {"url": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/logger.lua"},
+                "screen": {"url": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/screen.lua"},
+                "vimode": {"url": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vimode.lua"},
+                "vimrcDefault": {"url": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/vimrcDefault.lua"},
+                "startup": {"url": "https://raw.githubusercontent.com/Commandcracker/VimCC/master/vimfiles/startup.lua"}
+            }
+        },
+        "donut": {
+            "files": {
+                "bin/donut": {"url": "https://raw.githubusercontent.com/Commandcracker/CC-spinning-donut/master/donut.lua"}
+            }
+        },
+        "doom": {
+            "url": "https://github.com/Xelostar/CCDoom",
+            "files": {
+                "bin/doom": {"url": "https://gist.githubusercontent.com/Commandcracker/d10a48e9f7b2ddb4dd367beb65f43fd7/raw"},
+                "LICENSE": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/LICENSE"},
+                "doom": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/Doom"},
+                "ThreeD": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/ThreeD"},
+                "bufferAPI": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/bufferAPI"},
+                "blittle": {"url": "https://pastebin.com/raw/ujchRSnU"},
+                "images/bfire": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/images/bfire"},
+                "images/bgun": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/images/bgun"},
+                "images/bgunf": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/images/bgunf"},
+                "images/bheart": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/images/bheart"},
+                "images/fire": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/images/fire"},
+                "images/gun": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/images/gun"},
+                "images/gunf": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/images/gunf"},
+                "images/heart": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/images/heart"},
+                "images/logo": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/images/logo"},
+                "levels/level1": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/levels/level1"},
+                "levels/level2": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/levels/level2"},
+                "levels/level3": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/levels/level3"},
+                "levels/level4": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/levels/level4"},
+                "levels/level5": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/levels/level5"},
+                "levels/level6": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/levels/level6"},
+                "levels/level7": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/levels/level7"},
+                "levels/level8": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/levels/level8"},
+                "levels/level9": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/levels/level9"},
+                "models/corpse": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/models/corpse"},
+                "models/doorx": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/models/doorx"},
+                "models/doorz": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/models/doorz"},
+                "models/wallx": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/models/wallx"},
+                "models/wallz": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/models/wallz"},
+                "models/wallxz": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/models/wallxz"},
+                "models/emerald": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/models/emerald"},
+                "models/enemy1": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/models/enemy1"},
+                "models/enemy2": {"url": "https://raw.githubusercontent.com/Xelostar/CCDoom/master/Doom/models/enemy2"}
+            }
+        },
+        "mirror": {
+            "url": "https://pastebin.com/DW3LCC3L",
+            "files": {
+                "bin/mirror": {"url": "https://pastebin.com/raw/DW3LCC3L"}
+            }
+        },
+        "matrix": {
+            "url": "https://github.com/Commandcracker/CC-packages/blob/master/matrix.lua",
+            "files": {
+                "bin/matrix": {"url": "https://raw.githubusercontent.com/Commandcracker/CC-packages/master/matrix.lua"}
+            }
+        }
+    }
+}

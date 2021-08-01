@@ -16,11 +16,18 @@
             }
         },
         "donut": {
+            "hardware": {
+                "pocket": false
+            },
             "files": {
                 "bin/donut": {"url": "https://raw.githubusercontent.com/Commandcracker/CC-spinning-donut/master/donut.lua"}
             }
         },
         "doom": {
+            "hardware": {
+                "turtle": false,
+                "pocket": false
+            },
             "url": "https://github.com/Xelostar/CCDoom",
             "files": {
                 "bin/doom": {"url": "https://gist.githubusercontent.com/Commandcracker/d10a48e9f7b2ddb4dd367beb65f43fd7/raw"},
@@ -59,6 +66,9 @@
             }
         },
         "mirror": {
+            "hardware": {
+                "pocket": false
+            },
             "url": "https://pastebin.com/DW3LCC3L",
             "files": {
                 "bin/mirror": {"url": "https://pastebin.com/raw/DW3LCC3L"}

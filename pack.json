@@ -79,6 +79,12 @@
             "files": {
                 "bin/matrix": {"url": "https://raw.githubusercontent.com/Commandcracker/CC-packages/master/matrix.lua"}
             }
+        },
+        "hexedit": {
+            "url": "https://pastebin.com/H7uig1Yi",
+            "files": {
+                "bin/hexedit": {"url": "https://pastebin.com/raw/H7uig1Yi"}
+            }
         }
     }
 }

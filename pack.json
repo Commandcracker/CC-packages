@@ -94,6 +94,15 @@
             "files": {
                 "bin/youcube": {"url": "https://raw.githubusercontent.com/Commandcracker/YouCube/main/client/youcube.lua"}
             }
+        },
+        "consult": {
+            "version_mode": "github",
+            "version": "https://api.github.com/repos/1Turtle/CONSULT/git/refs/heads/main",
+            "description": "A Lua editor that provides a modern user interface for CraftOS",
+            "url": "https://github.com/1Turtle/CONSULT",
+            "files": {
+                "bin/cosu": {"url": "https://github.com/1Turtle/consult/releases/latest/download/cosu.lua"}
+            }
         }
     }
 }

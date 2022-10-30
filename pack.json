@@ -85,6 +85,15 @@
             "files": {
                 "bin/hexedit": {"url": "https://pastebin.com/raw/H7uig1Yi"}
             }
+        },
+        "youcube": {
+            "version_mode": "github",
+            "version": "https://api.github.com/repos/Commandcracker/YouCube/git/refs/heads/main",
+            "description": "YouTube for Computer Craft",
+            "url": "https://github.com/Commandcracker/YouCube",
+            "files": {
+                "bin/youcube": {"url": "https://raw.githubusercontent.com/Commandcracker/YouCube/main/client/youcube.lua"}
+            }
         }
     }
 }
